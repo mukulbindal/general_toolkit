@@ -5,5 +5,5 @@ Currently we support :
     | ---- Document
 
 
-pip install general-toolkit
+pip install general-toolkit..
  
