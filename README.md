@@ -4,4 +4,6 @@ Currently we support :
     AI 
     | ---- Document
 
+
+pip install general-toolkit
  
